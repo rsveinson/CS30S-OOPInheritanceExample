@@ -12,7 +12,7 @@ public class Circle extends Shape{
     //*** Class Variables ***
     
     //*** Instance Variables ***
-    double radius;
+    private double radius;
     
     //*** Constructors ***
     public Circle(){
