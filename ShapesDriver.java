@@ -54,6 +54,9 @@ public class ShapesDriver {
         Shape anotherShape = new Shape();
         System.out.println(shape);
         System.out.println(anotherShape);
+        
+        // protected?
+        //System.out.println(shape.name);
 
         // circles
         Circle circle = new Circle("Disk", 4.5);
